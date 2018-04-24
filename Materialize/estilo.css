@@ -1,0 +1,36 @@
+body {
+  background:url("img/fondo.jpg")no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 80vw;
+  margin: auto;
+}
+
+nav {
+  background-color: inherit;
+  box-shadow: none !important;
+}
+
+.btn-small{
+  background-color:#1a237e  !important;
+}
+
+.row {
+  background-color:rgba(174, 214, 241, 0.5);
+  padding-left: .6rem;
+  padding-right: .6rem;
+}
+
+.post {
+  background: white;
+  margin-top: 2rem;
+  padding-left:-10px;
+}
+
+.post-1 {
+  background:white !important;
+}
+
+.input-field label {
+     color: #000;
+   }

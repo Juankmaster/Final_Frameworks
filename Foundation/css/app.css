@@ -1,0 +1,65 @@
+body {
+background:url("../img/fondo1.jpg")no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+
+}
+div[class*="columns"]{
+  /* border: 1px solid #585858; */
+  font-size: 1rem;
+  margin-bottom: .5rem;
+}
+header{
+  color: white;
+}
+header h3{
+  color: white;
+  font-family: fantasy;
+}
+
+.principal {
+  background-color:rgba(84, 153, 199, 0.5);
+  padding: .5rem;
+}
+
+.col-izquierda {
+  background-color: rgba(213, 216, 220, 0.8);
+  border-radius: .1rem;
+  padding-top: .5rem;
+}
+.col-derecha {
+
+}
+
+.col-derecha-top {
+  background-color:rgba(245, 183, 177, 0.8);
+  border-radius: .1rem;
+  padding: 1rem;
+}
+
+.img-izquierda {
+width: 100vw !important;
+height: 120px !important;
+padding-bottom:1rem ;
+}
+.row {
+  margin-bottom: .5rem;
+  padding-left: .5rem;
+}
+
+.img-derecha {
+
+width: 100%;
+height:auto;
+}
+
+.chat{
+  padding-top:1rem;
+  border: 1px solid black;
+  border-radius: .5rem;
+
+}
+.media-object {
+    border: 1px solid black !important;
+}
